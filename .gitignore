@@ -1,0 +1,8 @@
+__pycache__
+log/
+log*
+lsf*
+.idea/*
+annot/
+images/
+venv/
